@@ -8,4 +8,4 @@ Cloud RunはGoogle Cloudが提供するコンテナ実行環境です。
 で動かしました。
 
 
-ブログにまとめています。 [Cloud Runの実行環境のCPUスペックを確認する](https://tech.blog.home.group.jp/1346)
+ブログにまとめています。 [Cloud Runの実行環境のCPUスペックを確認する](https://tech.blog.home.group.jp/archives/1346)
